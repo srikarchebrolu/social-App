@@ -1,0 +1,15 @@
+A a publisher , I want to publish product ads and product description to support and buyers.
+
+As a website visitor user , I want to see what type of content this web provides,so that i got an idea 
+about a product.
+
+As a buyer i visit the website and i want to find good products and deals so that my needs will be satisfied.
+
+As a marketing leader, I want to generate more products into the market so that my i can improve my business
+growth.
+
+A a marketing leader, I want to make a good deal with my customer so that my customer buy the product with a 
+good satisfaction .
+
+As a marketing leader, I want my leads to integreate with my marketing tools so that I can attribute
+leads to specific campaigns.
